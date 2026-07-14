@@ -1,0 +1,18 @@
+Test Accuracy: 0.9173
+
+                             precision    recall  f1-score   support
+
+      Tomato___Early_blight     0.7972    0.8321    0.8143       137
+       Tomato___Late_blight     0.9258    0.9441    0.9349       304
+           Tomato___healthy     0.9749    0.8151    0.8879       238
+      Potato___Early_blight     0.9198    0.9313    0.9255       160
+       Potato___Late_blight     0.8872    0.8489    0.8676       139
+           Potato___healthy     0.5946    0.8462    0.6984        26
+Corn_(maize)___Common_rust_     0.9799    0.9559    0.9677       204
+     Corn_(maize)___healthy     0.8966    1.0000    0.9455       156
+         Apple___Apple_scab     0.9694    0.9135    0.9406       104
+            Apple___healthy     0.9370    0.9911    0.9633       225
+
+                   accuracy                         0.9173      1693
+                  macro avg     0.8882    0.9078    0.8946      1693
+               weighted avg     0.9215    0.9173    0.9175      1693
